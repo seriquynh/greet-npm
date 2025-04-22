@@ -1,0 +1,26 @@
+{
+  "name": "greet-npm",
+  "version": "0.1.0.dev",
+  "description": "This is a Node package template using NPM.",
+  "keywords": [
+    "Greet"
+  ],
+  "homepage": "https://github.com/seriquynh/greet-npm#readme",
+  "bugs": {
+    "url": "https://github.com/seriquynh/greet-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seriquynh/greet-npm.git"
+  },
+  "license": "MIT",
+  "author": "Quynh Nguyen <seriquynh@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
