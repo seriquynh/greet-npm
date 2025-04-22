@@ -1,0 +1,6 @@
+.github/
+.idea/
+
+tests/
+
+eslint.config.mjs

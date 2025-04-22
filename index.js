@@ -3,5 +3,5 @@
 const greet = require('./src/greet')
 
 module.exports = {
-    ...greet
+  ...greet,
 }
