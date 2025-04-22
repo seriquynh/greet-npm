@@ -1,9 +1,9 @@
 function hello(name) {
-  return `Hello, ${name}!`;
+  return `Hello, ${name}!`
 }
 
 function hi(name) {
-  return `Hi, ${name}!`;
+  return `Hi, ${name}!`
 }
 
 module.exports = {
